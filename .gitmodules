@@ -22,3 +22,15 @@
 [submodule "services/krishna"]
 	path = services/krishna
 	url = https://github.com/satyanweshi11/brahmand-Krishna.git
+[submodule "modules/Vishnu"]
+	path = modules/Vishnu
+	url = https://github.com/satyanweshi11/brahmand-Vishnu.git
+[submodule "modules/Narad"]
+	path = modules/Narad
+	url = https://github.com/satyanweshi11/brahmand-Narad.git
+[submodule "modules/Brahma"]
+	path = modules/Brahma
+	url = https://github.com/satyanweshi11/brahmand-Brahma.git
+[submodule "modules/Chitragupta"]
+	path = modules/Chitragupta
+	url = https://github.com/satyanweshi11/brahmand-Chitragupta.git
