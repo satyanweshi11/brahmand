@@ -1,3 +1,24 @@
 [submodule "services/vishnu"]
 	path = services/vishnu
 	url = https://github.com/satyanweshi11/brahmand-Vishnu.git
+[submodule "services/narad"]
+	path = services/narad
+	url = https://github.com/satyanweshi11/brahmand-Narad.git
+[submodule "services/brahma"]
+	path = services/brahma
+	url = https://github.com/satyanweshi11/brahmand-Brahma.git
+[submodule "services/chitragupta"]
+	path = services/chitragupta
+	url = https://github.com/satyanweshi11/brahmand-Chitragupta.git
+[submodule "services/shakti"]
+	path = services/shakti
+	url = https://github.com/satyanweshi11/brahmand-Shakti.git
+[submodule "services/durga"]
+	path = services/durga
+	url = https://github.com/satyanweshi11/brahmand-Durga.git
+[submodule "services/shiva"]
+	path = services/shiva
+	url = https://github.com/satyanweshi11/brahmand-Shiva.git
+[submodule "services/krishna"]
+	path = services/krishna
+	url = https://github.com/satyanweshi11/brahmand-Krishna.git
