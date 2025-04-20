@@ -1,0 +1,3 @@
+[submodule "services/vishnu"]
+	path = services/vishnu
+	url = https://github.com/satyanweshi11/brahmand-Vishnu.git
